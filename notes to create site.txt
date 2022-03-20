@@ -1,0 +1,11 @@
+git clone https://github.com/username/username.github.io
+cd username.github.io
+echo "Hello World" > index.html
+git add --all
+git commit -m "Initial commit"
+
+touch README
+git add README
+git add .
+git commit -m 'reinitialized files'
+git push origin master --force  # <- caution, --force can delete others work.
