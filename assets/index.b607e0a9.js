@@ -1,0 +1,1 @@
+import{_ as r}from"./index.af54e941.js";const e={};function _(c,n){return" \u0421\u043C\u043E\u0442\u0440\u0438 \u043F\u043E\u0434\u043F\u0443\u043D\u043A\u0442\u044B \u0432 \u043C\u0435\u043D\u044E "}var a=r(e,[["render",_]]);export{a as default};
